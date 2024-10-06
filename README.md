@@ -3,4 +3,4 @@ This is my first repo
 <br>
 <br>
 <br>
-Author - Mahesh Kumar panathula
+Author - Mahesh Kumar panathula[ching chag po]
